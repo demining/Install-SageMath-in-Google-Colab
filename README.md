@@ -1,5 +1,28 @@
+
+
+# Install SageMath in Google Colab
+
+---
+
+
+---
 		
 <figure class="wp-block-image"><img decoding="async" src="./Install SageMath in Google Colab - CRYPTO DEEP TECH_files/037-1-1024x576.png" alt="Install SageMath in Google Colab" class="wp-image-2669"></figure>
+
+
+
+
+---
+
+
+* Tutorial: https://youtu.be/DBu0UnVe0ig
+* Tutorial: https://cryptodeeptech.ru/install-sagemath-in-google-colab
+
+
+---
+
+
+
 
 
 
